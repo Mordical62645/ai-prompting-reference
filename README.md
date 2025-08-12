@@ -4,7 +4,7 @@ This repository contains a structured template for creating effective AI interac
 
 ## Template Structure
 
-The guide template consists of four main sections:
+The guide template consists of five main sections:
 
 ### 1. CONTEXT
 - Describe the situation, problem, or goal you want to achieve
@@ -12,6 +12,7 @@ The guide template consists of four main sections:
 
 ### 2. RULES
 - **How should the AI act?** - Define the role, perspective, or experience level
+- Trick: one good trick is that you can ask it to explain everything to you like you're a 5 year old.
 - **Skillset/knowledge scope** - List relevant tools, languages, frameworks, or areas
 - **Restrictions or boundaries** - Specify what should not be touched or altered
 
@@ -24,6 +25,9 @@ The guide template consists of four main sections:
 - **Style guide** - Define the tone and complexity level
 - **Formatting rules** - Specify any formatting restrictions or preferences
 - **Deliverables** - List what should be provided (code, instructions, diagrams, etc.)
+
+### 5. POST PROCESSING
+- Rescan, Review and Re-evaluate if there is all there is or any missing component.
 
 ## Example Usage
 
