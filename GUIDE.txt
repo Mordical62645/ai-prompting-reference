@@ -4,6 +4,7 @@ CONTEXT:
 RULES:
 1. How should the AI (you) act?
 - (Describe the role, perspective, or experience level the AI should take)
+- Trick: one good trick is that you can ask it to explain everything to you like you're a 5 year old.
 
 2. Skillset / knowledge scope to assume:
 - (List tools, languages, frameworks, or areas to focus on)
