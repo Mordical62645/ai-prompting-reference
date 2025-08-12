@@ -21,4 +21,7 @@ OUTPUT:
 1. (Style guide. Example: simple and beginner-friendly, or detailed and technical)
 2. (Formatting rules. Example: no emojis, no complex formatting, no extra fluff)
 3. (Deliverables. Example: code, step-by-step instructions, diagrams)
+4. ((Optional) Provide and expected output sample.)
 
+POST PROCESSING:
+1. Rescan, Review and Re-evaluate if there is all there is or any missing component.
