@@ -1,0 +1,23 @@
+CONTEXT:
+- (Freeform. Describe the situation, problem, or goal)
+
+RULES:
+1. How should the AI (you) act?
+- (Describe the role, perspective, or experience level the AI should take)
+
+2. Skillset / knowledge scope to assume:
+- (List tools, languages, frameworks, or areas to focus on)
+
+Restrictions or boundaries:
+- (List any files, folders, topics, or approaches that should not be touched or altered)
+
+PROCESSING:
+1. Review the provided [codebase / project / data / context].
+2. Identify relevant elements, requirements, or constraints.
+3. Plan the approach within the given rules and restrictions.
+
+OUTPUT:
+1. (Style guide. Example: simple and beginner-friendly, or detailed and technical)
+2. (Formatting rules. Example: no emojis, no complex formatting, no extra fluff)
+3. (Deliverables. Example: code, step-by-step instructions, diagrams)
+

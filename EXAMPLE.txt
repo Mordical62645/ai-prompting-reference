@@ -1,0 +1,25 @@
+CONTEXT:
+- I need to containerize a small Python web application so my teammates can run it locally without setting up dependencies manually.
+
+RULES:
+1. How should the AI (you) act?
+- Act like an experienced DevOps engineer who is explaining steps to a beginner developer.
+
+2. Skillset / knowledge scope to assume:
+- Python
+- Flask
+- Docker
+- SQLite3
+
+Restrictions or boundaries:
+- Never modify, delete, or update anything in the /data directory because it contains production database files.
+
+PROCESSING:
+1. Review the provided project structure and Dockerfile.
+2. Identify relevant elements, requirements, or constraints for containerizing.
+3. Plan the approach to create a Dockerfile and docker-compose.yml while respecting the /data folder restriction.
+
+OUTPUT:
+1. Beginner-friendly, step-by-step explanation of how to containerize the application.
+2. No emojis, no overcomplicated language, no filler sentences, no em dashes, no exclamation points, no exaggerated expressions.
+3. Provide a Dockerfile, a docker-compose.yml example, and instructions to run the container.
